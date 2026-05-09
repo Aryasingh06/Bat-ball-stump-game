@@ -33,4 +33,4 @@ An interactive web-based game built using HTML, CSS, and JavaScript where users 
 - Add game history
 
   # output image
-  ![project_output](images/cricket.png)
+  ![project_output](output/cricket.png)
